@@ -1,0 +1,1 @@
+{"version":3,"sources":["blackstyle.css"],"names":[],"mappings":"AAAA,EAA2B,UAAc,CAIzC,qCAAoB,oBAAuB","file":"main.be73860d.chunk.css","sourcesContent":["a { text-decoration: none; color: black; }\na:visited { text-decoration: none; }\na:hover { text-decoration: none; }\na:focus { text-decoration: none; }\na:hover, a:active { text-decoration: none; }"]}

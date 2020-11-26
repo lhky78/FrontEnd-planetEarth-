@@ -69,7 +69,8 @@ function App() {
             padding: 10,
           }}
         >
-          <HelloCountry name={clicked} color="red" />
+          {/* 사용자가 클릭한 국가 코드 가져오는 함수들 // */}
+          <HelloCountry name={clicked} color="red" /> 
           <Posts />
         </div>
       )
